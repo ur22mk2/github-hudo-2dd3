@@ -1,6 +1,7 @@
 +++
 title = 'Мой первый пост'
-date = 2024-08-10T15:06:21+03:00
+date = '2024-08-11'
+author = 'Evgeniy Palchikov'
 draft = false
 +++
 ## Добрый день!
